@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "671685783620",
+    "firebase_url": "https://lifevision-a8776-default-rtdb.firebaseio.com",
+    "project_id": "lifevision-a8776",
+    "storage_bucket": "lifevision-a8776.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671685783620:android:fcb8b9e8f1a79c108f4c11",
+        "android_client_info": {
+          "package_name": "com.example.lifevision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671685783620-in1vmvl035q87ll7i7qm2km6upjsp5ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Z7Ya8iDM8SJSx8nBXGu1pJu9lZ8Lttc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671685783620-in1vmvl035q87ll7i7qm2km6upjsp5ld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671685783620-q0q58upm60rgumdt9us5rppnhru2enrn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lifevision"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671685783620:android:b16e17373d3a1e478f4c11",
+        "android_client_info": {
+          "package_name": "com.rollcake.first_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671685783620-in1vmvl035q87ll7i7qm2km6upjsp5ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Z7Ya8iDM8SJSx8nBXGu1pJu9lZ8Lttc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671685783620-in1vmvl035q87ll7i7qm2km6upjsp5ld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671685783620-q0q58upm60rgumdt9us5rppnhru2enrn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lifevision"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
