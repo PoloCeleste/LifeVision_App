@@ -3,7 +3,7 @@
 안전검사 키오스크 시스템 관리자용 어플<br>
 [App Operating Video](https://www.youtube.com/watch?v=BcQt2QfUfyE)
 <br>
-[APK File Download](/LifeVision_App.apk)
+[APK File Download](https://github.com/2362afe3-793f-45d8-8259-cafd06ac2ceb)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
