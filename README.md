@@ -1,6 +1,7 @@
-# lifevision
+# LifeVision_Flutter_App
 
-A new Flutter project.
+안전검사 키오스크 시스템 관리자용 어플
+[App Operating Video](https://www.youtube.com/watch?v=BcQt2QfUfyE)
 
 ## Getting Started
 
